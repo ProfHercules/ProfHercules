@@ -16,13 +16,17 @@ I'm Hercules, I live in South Africa & love learning stuff.
   - Polywork: [@hercules](poly.work/hercules)
 
 
+
+[![Hercules's Github Stats](https://github-readme-stats.vercel.app/api?username=profhercules&count_private=true&theme=ayu-mirage&show_icons=true)](https://github.com/profhercules)
+
 #### 📕 Some projects I'm proud of:
-[![eule-rs](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=eule-rs)](https://github.com/ProfHercules/eule-rs)
-[![bignum](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=bignum)](https://github.com/ProfHercules/bignum)
-[![branchrs](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=branchrs)](https://github.com/ProfHercules/branchrs)
-[![huffpuff](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=huffpuff)](https://github.com/ProfHercules/huffpuff)
-[![imba-auto-state](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=imba-auto-state)](https://github.com/ProfHercules/imba-auto-state)
-[![react_notes](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&repo=react_notes)](https://github.com/ProfHercules/react_notes)
+
+[![surprise](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=surprise)](https://github.com/ProfHercules/surprise)
+[![eule-rs](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=eule-rs)](https://github.com/ProfHercules/eule-rs)
+[![bignum](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=bignum)](https://github.com/ProfHercules/bignum)
+[![branchrs](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=branchrs)](https://github.com/ProfHercules/branchrs)
+[![huffpuff](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=huffpuff)](https://github.com/ProfHercules/huffpuff)
+[![imba-auto-state](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=imba-auto-state)](https://github.com/ProfHercules/imba-auto-state)
+[![react_notes](https://github-readme-stats.vercel.app/api/pin/?username=profhercules&theme=dark&repo=react_notes)](https://github.com/ProfHercules/react_notes)
 
 
-[![Hercules's Github Stats](https://github-readme-stats.vercel.app/api?username=profhercules&count_private=true&theme=default&show_icons=true)](https://github.com/profhercules)
